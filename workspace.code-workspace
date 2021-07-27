@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\Nowy folder\\stronaudemy"
+        },
+        {
+            "path": "..\\Nowy folder\\stronajanecki"
+        },
+        {
+            "path": "..\\..\\..\\..\\xampp\\htdocs\\stronajanecki"
+        },
+        {
+            "path": "..\\..\\..\\..\\xampp\\htdocs\\phpudemy"
+        },
+        {
+            "path": "..\\..\\..\\..\\xampp\\htdocs\\jsMyProgramistki"
+        },
+        {
+            "path": "..\\..\\..\\..\\xampp\\htdocs\\Youtube.PasjaInformatyki"
+        }
+    ]
+}
